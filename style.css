@@ -86,6 +86,10 @@ nav ul li a:hover::after{
     justify-content: space-between;
     flex-wrap: wrap;
 }
+.about-col-2 a{
+    color : #ababab;
+    cursor: pointer;
+}
 .about-col-1{
     flex-basis: 35%;
 }
@@ -142,6 +146,7 @@ nav ul li a:hover::after{
 /* -----------services--------------- */
 #services{
     padding: 30px 0;
+    margin-bottom: 30px;
 }
 .services-list{
     display: grid;
@@ -367,6 +372,9 @@ nav  .fa-solid.fa-bars,.fa-regular.fa-circle-xmark{
     }
     .sub-title{
         font-size: 40px;
+    }
+    #linkUniv{
+        text-decoration: none;
     }
     .about-col-1 , .about-col-2{
         flex-basis: 100%;
