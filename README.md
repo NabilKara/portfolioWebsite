@@ -1,2 +1,2 @@
 # portfolioWebsite
-This is my personal portfolio website , based on youtube video by GreatStack
+This is my personal portfolio website , based on a youtube video by GreatStack
